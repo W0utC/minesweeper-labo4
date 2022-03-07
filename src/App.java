@@ -8,7 +8,8 @@ public class App {
         MinesweeperView view = new MinesweeperView();
         //Uncomment the lines below once your game model code is ready; don't forget to import your game model 
         //PlayableMinesweeper model = new Minesweeper();
-        
+        //test test gwn een verandering
+
         
         /**
             Your code to bind your game model to the game user interface
